@@ -29,6 +29,7 @@ int main( void )
 	sskgz8sentence1();
 	klft2();
 	mkc42Sentence1();
+	yqzn9Sentence1();
 	printf("\n\n");
 	snhqm9_sentence2();
 	rml3mdSecondSentence();
@@ -45,7 +46,7 @@ int main( void )
 	hagd5dSentence2();
 	klft2_1();
 	mkc42Sentence2();
-
+    yqzn9Sentence_FINAL();
 
 
 
